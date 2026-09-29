@@ -1,0 +1,30 @@
+# Compiled output
+out/
+*.class
+
+# Build artifacts
+*.jar
+*.war
+*.zip
+
+# Generated files
+sources.txt
+
+# Logs
+*.log
+skillswap_activity.log
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+*.DS_Store
+Thumbs.db
+
+# OS
+.DS_Store
+
+# MySQL credentials (keep storage.properties but exclude any local overrides)
+storage.properties.local
